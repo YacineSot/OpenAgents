@@ -336,6 +336,12 @@
     "last_pr": "2026-05-31T00:12:57.878Z"
   },
   {
+    "username": "szamaniai",
+    "total_prs": 2,
+    "first_pr": "2026-06-02T22:06:11.336Z",
+    "last_pr": "2026-06-02T22:12:04.362Z"
+  },
+  {
     "username": "CuboYe",
     "total_prs": 1,
     "first_pr": "2026-05-16T16:52:10.623Z",
@@ -484,11 +490,5 @@
     "total_prs": 1,
     "first_pr": "2026-06-01T23:25:11.861Z",
     "last_pr": "2026-06-01T23:25:11.861Z"
-  },
-  {
-    "username": "szamaniai",
-    "total_prs": 1,
-    "first_pr": "2026-06-02T22:06:11.336Z",
-    "last_pr": "2026-06-02T22:06:11.336Z"
   }
 ]
