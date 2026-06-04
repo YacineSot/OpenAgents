@@ -348,6 +348,12 @@
     "last_pr": "2026-05-31T00:12:57.878Z"
   },
   {
+    "username": "JesusMP22",
+    "total_prs": 2,
+    "first_pr": "2026-06-04T16:45:27.862Z",
+    "last_pr": "2026-06-04T16:50:23.334Z"
+  },
+  {
     "username": "CuboYe",
     "total_prs": 1,
     "first_pr": "2026-05-16T16:52:10.623Z",
@@ -508,11 +514,5 @@
     "total_prs": 1,
     "first_pr": "2026-06-04T10:09:32.613Z",
     "last_pr": "2026-06-04T10:09:32.613Z"
-  },
-  {
-    "username": "JesusMP22",
-    "total_prs": 1,
-    "first_pr": "2026-06-04T16:45:27.862Z",
-    "last_pr": "2026-06-04T16:45:27.862Z"
   }
 ]
