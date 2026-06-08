@@ -366,6 +366,12 @@
     "last_pr": "2026-06-07T10:18:59.395Z"
   },
   {
+    "username": "SyntaxHQDEV",
+    "total_prs": 2,
+    "first_pr": "2026-06-08T04:56:02.213Z",
+    "last_pr": "2026-06-08T04:57:54.633Z"
+  },
+  {
     "username": "CuboYe",
     "total_prs": 1,
     "first_pr": "2026-05-16T16:52:10.623Z",
@@ -532,11 +538,5 @@
     "total_prs": 1,
     "first_pr": "2026-06-06T22:10:37.366Z",
     "last_pr": "2026-06-06T22:10:37.366Z"
-  },
-  {
-    "username": "SyntaxHQDEV",
-    "total_prs": 1,
-    "first_pr": "2026-06-08T04:56:02.213Z",
-    "last_pr": "2026-06-08T04:56:02.213Z"
   }
 ]
