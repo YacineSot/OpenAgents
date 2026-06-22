@@ -156,6 +156,12 @@
     "last_pr": "2026-06-16T01:00:44.444Z"
   },
   {
+    "username": "gtx20060124-bot",
+    "total_prs": 11,
+    "first_pr": "2026-06-22T04:34:36.546Z",
+    "last_pr": "2026-06-22T23:47:20.442Z"
+  },
+  {
     "username": "mvmax-dev",
     "total_prs": 10,
     "first_pr": "2026-05-19T07:08:24.325Z",
@@ -166,12 +172,6 @@
     "total_prs": 10,
     "first_pr": "2026-06-18T04:24:14.256Z",
     "last_pr": "2026-06-20T08:12:53.856Z"
-  },
-  {
-    "username": "gtx20060124-bot",
-    "total_prs": 10,
-    "first_pr": "2026-06-22T04:34:36.546Z",
-    "last_pr": "2026-06-22T23:22:43.753Z"
   },
   {
     "username": "thePM001",
