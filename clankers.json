@@ -252,6 +252,12 @@
     "last_pr": "2026-06-02T02:01:07.484Z"
   },
   {
+    "username": "gtx20060124-bot",
+    "total_prs": 6,
+    "first_pr": "2026-06-22T04:34:36.546Z",
+    "last_pr": "2026-06-22T21:25:27.430Z"
+  },
+  {
     "username": "malsony",
     "total_prs": 5,
     "first_pr": "2026-05-17T10:21:35.699Z",
@@ -262,12 +268,6 @@
     "total_prs": 5,
     "first_pr": "2026-05-21T11:42:57.311Z",
     "last_pr": "2026-05-21T16:04:04.468Z"
-  },
-  {
-    "username": "gtx20060124-bot",
-    "total_prs": 5,
-    "first_pr": "2026-06-22T04:34:36.546Z",
-    "last_pr": "2026-06-22T21:02:39.498Z"
   },
   {
     "username": "AnirudhPrakashCMU",
