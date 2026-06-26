@@ -432,6 +432,12 @@
     "last_pr": "2026-06-15T20:03:46.228Z"
   },
   {
+    "username": "dacdoyx",
+    "total_prs": 2,
+    "first_pr": "2026-06-25T21:09:06.264Z",
+    "last_pr": "2026-06-26T03:52:34.074Z"
+  },
+  {
     "username": "CuboYe",
     "total_prs": 1,
     "first_pr": "2026-05-16T16:52:10.623Z",
@@ -622,11 +628,5 @@
     "total_prs": 1,
     "first_pr": "2026-06-20T23:12:40.806Z",
     "last_pr": "2026-06-20T23:12:40.806Z"
-  },
-  {
-    "username": "dacdoyx",
-    "total_prs": 1,
-    "first_pr": "2026-06-25T21:09:06.264Z",
-    "last_pr": "2026-06-25T21:09:06.264Z"
   }
 ]
