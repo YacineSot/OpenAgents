@@ -40,6 +40,19 @@
         "shell": "zsh"
       },
       "contribution": "Refactored SafeMath library and added comprehensive unit tests for edge cases"
+    },
+    {
+      "name": "YacineSot",
+      "timestamp": "2026-07-02T10:00:00Z",
+      "platform_instructions": "",
+      "runtime": {
+        "os": "Microsoft Windows 10.0.19045",
+        "arch": "x64",
+        "home_dir": "/Users/yacin",
+        "working_dir": "D:/Learn/OpenAgents",
+        "shell": "PowerShell"
+      },
+      "contribution": "Fixing some bugs in the retry mechanism and improving error handling in the SDK"
     }
   ]
 }
