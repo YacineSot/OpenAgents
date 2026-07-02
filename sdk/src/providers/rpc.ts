@@ -43,12 +43,14 @@ export class RpcProvider {
       params,
     };
 
-    return withRetry(async () => {
+    return withRetry(async (signal: AbortSignal) => {
       // BUG: No timeout — fetch can hang indefinitely if the RPC node is unresponsive
+      // FIX: Adding a timeout using AbortController to prevent hanging indefinitely
       const res = await fetch(this.url, {
         method: "POST",
         headers: { "Content-Type": "application/json", ...this.headers },
         body: JSON.stringify(request),
+        signal
       });
 
       const json = await res.json();
