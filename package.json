@@ -4,13 +4,19 @@
   "description": "Decentralized AI Agent Orchestration Protocol",
   "scripts": {
     "compile": "hardhat compile",
-    "test": "hardhat test",
+    "test": "mocha ./test/RetryHandler.test.js",
     "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia",
     "deploy:base": "hardhat run scripts/deploy.js --network base"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
-    "hardhat": "^2.22.0"
+    "@types/chai": "^5.2.3",
+    "@types/mocha": "^10.0.10",
+    "chai": "^6.2.2",
+    "hardhat": "^2.22.0",
+    "mocha": "^11.7.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
   },
   "dependencies": {
     "@openzeppelin/contracts": "^5.1.0",
