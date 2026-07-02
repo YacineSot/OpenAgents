@@ -19,16 +19,12 @@
  * - Environment: development
  * - Node Environment: NODE_ENV=test
  * 
- * Project Context:
- * - Retry utility testing with exponential backoff
- * - Testing error codes: ETIMEDOUT, ECONNRESET, ECONNREFUSED, 429, 500, 502, 503, 504, etc.
- * - Test run: Random 100 attempts with configurable retry conditions
- * 
- * Dependencies:
- * - chai@4.3.10
- * - mocha@10.2.0
- * - ts-node@10.9.2
- * - typescript@5.3.3
+ * Test Suite: RetryHandler Tests
+ * - 500 retries: ✅ Tested
+ * - 400 doesn't retry: ✅ Tested
+ * - Custom condition: ✅ Tested
+ * - onRetry callback: ✅ Tested
+ * - Per-error-type backoff: ✅ Tested
  * 
  * Test Configuration:
  * - Test framework: Mocha + Chai
