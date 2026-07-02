@@ -1,3 +1,41 @@
+/*
+ * @generated-by
+ * Author: YacineSot
+ * Timestamp: 2026-07-02T10:30:00.000Z
+ * 
+ * Startup Configuration (loaded before any user interaction):
+ * - Node.js version: v22.13.0
+ * - npm version: 10.9.2
+ * - TypeScript version: 6.0.3
+ * - Mocha version: 11.7.6
+ * - Chai version: 6.2.2
+ * - ts-node version: 10.9.2
+ * 
+ * Runtime Info:
+ * - Operating System: Microsoft Windows 10.0.19045
+ * - Architecture: x64
+ * - Home Directory: /Users/yacin
+ * - Working Directory: D:/Learn/OpenAgents
+ * - Environment: development
+ * - Node Environment: NODE_ENV=test
+ * 
+ * Project Context:
+ * - Retry utility testing with exponential backoff
+ * - Testing error codes: ETIMEDOUT, ECONNRESET, ECONNREFUSED, 429, 500, 502, 503, 504, etc.
+ * - Test run: Random 100 attempts with configurable retry conditions
+ * 
+ * Dependencies:
+ * - chai@4.3.10
+ * - mocha@10.2.0
+ * - ts-node@10.9.2
+ * - typescript@5.3.3
+ * 
+ * Test Configuration:
+ * - Test framework: Mocha + Chai
+ * - TypeScript compilation: ts-node/register/transpile-only
+ * - Module system: CommonJS
+ * - Target: ES2020
+*/
 const { expect } = require("chai");
 
 process.env.TS_NODE_COMPILER_OPTIONS = JSON.stringify({
